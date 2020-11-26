@@ -4,5 +4,5 @@ Deep learning is seldom used in the classification of electroencephalography (EE
 
 Thus, our study aims at making use of Deep Learning architectures for the classification of brain signals or EEG. To prove that classification of brain waves can also be done using deep learning architecture, we have chosen a dataset consisting of sleep patterns of a certain number of subjects and tried to classify the sleep stages depending on the EEG signals of the subjects.
 
-- [Project Report]("./Project_Report.pdf")
+- [Project Report](https://drive.google.com/file/d/17xVccWE6RojCgX83xdhpA0JFImTLbs7w/view?usp=sharing)
 <img src="./sleep_stages.png" />
